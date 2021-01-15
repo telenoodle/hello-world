@@ -1,2 +1,3 @@
 # hello-world
-Learning Git
+
+Hello friends, this is my first git commit (: 
